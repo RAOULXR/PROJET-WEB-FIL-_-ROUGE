@@ -1,0 +1,20 @@
+
+/*  */
+
+
+
+body{
+    --themeColor: ;
+    background-color: var(--themeColor);
+    --themeTextColor: ;
+    margin: 0;
+    padding: 0;
+    
+}
+
+p{
+    color: var(--themeTextColor);
+}
+
+
+
